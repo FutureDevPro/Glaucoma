@@ -1,0 +1,10 @@
+ #Datasets
+All Datasets/
+cropped/
+dataset/
+models/
+model/
+models_dct/
+models_dct_kfold/
+DCT/models_dct_kfold/
+glaucoma-cv/

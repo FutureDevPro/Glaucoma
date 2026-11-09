@@ -1,0 +1,6 @@
+fold,best_epoch,train_images,validation_images,loss,accuracy,precision,recall,f1,checkpoint
+1,36,40,10,0.403293251991272,0.8,0.7777777777777778,1.0,0.875,C:\Users\udit2\Desktop\Glaucoma\DCT\models_dct_kfold\resnet18_dct_fold_1_best.pth
+2,10,40,10,0.9727727383375168,0.8,0.7777777777777778,1.0,0.875,C:\Users\udit2\Desktop\Glaucoma\DCT\models_dct_kfold\resnet18_dct_fold_2_best.pth
+3,29,40,10,1.0881706595420837,0.7,0.7142857142857143,0.8333333333333334,0.7692307692307693,C:\Users\udit2\Desktop\Glaucoma\DCT\models_dct_kfold\resnet18_dct_fold_3_best.pth
+4,46,40,10,1.1438992977142335,0.6,0.625,0.8333333333333334,0.7142857142857143,C:\Users\udit2\Desktop\Glaucoma\DCT\models_dct_kfold\resnet18_dct_fold_4_best.pth
+5,22,40,10,0.8435772895812989,0.7,0.7142857142857143,0.8333333333333334,0.7692307692307693,C:\Users\udit2\Desktop\Glaucoma\DCT\models_dct_kfold\resnet18_dct_fold_5_best.pth

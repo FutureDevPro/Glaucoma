@@ -1,0 +1,11 @@
+﻿image_path,true_label,true_class,predicted_label,predicted_class,normal_probability,glaucoma_probability,confidence_probability,correct
+C:\Users\udit2\Desktop\Glaucoma\dataset\DRISHTI_cropped\training\glaucoma\drishtiGS_051_ROI.png,1,Glaucoma,1,Glaucoma,0.27772784,0.72227216,0.72227216,True
+C:\Users\udit2\Desktop\Glaucoma\dataset\DRISHTI_cropped\training\glaucoma\drishtiGS_058_ROI.png,1,Glaucoma,0,Normal,0.87769789,0.12230217,0.87769789,False
+C:\Users\udit2\Desktop\Glaucoma\dataset\DRISHTI_cropped\training\glaucoma\drishtiGS_040_ROI.png,1,Glaucoma,0,Normal,0.88621348,0.11378650,0.88621348,False
+C:\Users\udit2\Desktop\Glaucoma\dataset\DRISHTI_cropped\training\normal\drishtiGS_090_ROI.png,0,Normal,1,Glaucoma,0.31971237,0.68028760,0.68028760,False
+C:\Users\udit2\Desktop\Glaucoma\dataset\DRISHTI_cropped\training\normal\drishtiGS_094_ROI.png,0,Normal,1,Glaucoma,0.47521400,0.52478594,0.52478594,False
+C:\Users\udit2\Desktop\Glaucoma\dataset\DRISHTI_cropped\training\normal\drishtiGS_098_ROI.png,0,Normal,1,Glaucoma,0.02032315,0.97967678,0.97967678,False
+C:\Users\udit2\Desktop\Glaucoma\dataset\DRISHTI_cropped\training\glaucoma\drishtiGS_032_ROI.png,1,Glaucoma,0,Normal,0.95340604,0.04659394,0.95340604,False
+C:\Users\udit2\Desktop\Glaucoma\dataset\DRISHTI_cropped\training\glaucoma\drishtiGS_066_ROI.png,1,Glaucoma,1,Glaucoma,0.13695548,0.86304450,0.86304450,True
+C:\Users\udit2\Desktop\Glaucoma\dataset\DRISHTI_cropped\training\glaucoma\drishtiGS_062_ROI.png,1,Glaucoma,1,Glaucoma,0.03705999,0.96294004,0.96294004,True
+C:\Users\udit2\Desktop\Glaucoma\dataset\DRISHTI_cropped\training\normal\drishtiGS_041_ROI.png,0,Normal,0,Normal,0.89212799,0.10787200,0.89212799,True
