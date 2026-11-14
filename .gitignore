@@ -8,3 +8,4 @@ models_dct/
 models_dct_kfold/
 DCT/models_dct_kfold/
 glaucoma-cv/
+results/
